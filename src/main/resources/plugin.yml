@@ -1,0 +1,6 @@
+name: MCBrendan
+main: fr.klemms.mcbrendan.MCBrendan
+version: 1.0.0
+load: POSTWORLD
+author: Klemms
+api-version: 1.16
